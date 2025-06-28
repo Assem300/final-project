@@ -21,7 +21,7 @@ years_available = sorted(df['Year'].unique())
 st.set_page_config(layout="wide", page_title="Walmart Sales Dashboard")
 
 # شعار
-st.image('assets/walmart-logo.png', width=400)
+
 
 # عنوان
 st.title("Walmart Sales Dashboard")
