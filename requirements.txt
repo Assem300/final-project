@@ -1,9 +1,5 @@
 streamlit
 pandas
+plotly
 scikit-learn
-joblib
-fpdf2
-python-dateutil
-numpy
-xgboost
-openpyxl
+matplotlib
